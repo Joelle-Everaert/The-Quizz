@@ -12,6 +12,8 @@ const shuffle = (array) => {
   answers = array
 }
 
+let i = 0
+
 fetch('https://opentdb.com/api.php?amount=15&category=14&difficulty=medium&type=multiple')
   .then(response => response.json())
   .then((quizzApi) => {
@@ -32,7 +34,7 @@ fetch('https://opentdb.com/api.php?amount=15&category=14&difficulty=medium&type=
 
       shuffle(answers);  // shuffle nos réponse de notre array 
 
-      // let i = 0
+      
 
       let name = element.question // pour que name dans checkboxanswer soit associé à la question, un name par question 
       for (let el of answers) {
@@ -52,7 +54,8 @@ fetch('https://opentdb.com/api.php?amount=15&category=14&difficulty=medium&type=
         possibility.appendChild(checkboxAnswers)
         possibility.appendChild(checkboxAnswersLabel)
 
-        
+        let point = true  // utilisation de booleen pour la fonction score
+
         checkboxAnswers.addEventListener('click', function () {
           let labels = document.querySelectorAll('label')
           for (let e of labels) {
@@ -61,9 +64,12 @@ fetch('https://opentdb.com/api.php?amount=15&category=14&difficulty=medium&type=
           }
           if (checkboxAnswersLabel.innerHTML == correctAnswer) { // veut le contenu texte car ligne 21 = a une balise html
             checkboxAnswersLabel.classList.add('green')
-            // i += 1
-            // const score = document.querySelector('.score')
-            // score.innerHTML = 'Score : ' + i
+            const score = document.querySelector('.score')
+            if (point == true){
+              i += 1
+              point = false
+              score.innerHTML = 'Score : ' + i
+            }
           } else {
             checkboxAnswersLabel.classList.add('red')
           }
