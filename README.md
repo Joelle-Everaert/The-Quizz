@@ -9,9 +9,6 @@
 ## What is this ?
 It is a solo work as part of my training at **[BeCode](https://becode.org)**. <br>
 
-[Trello](https://trello.com/b/iMYkjSat/restaurant)
-
-
 ## Context  
 As part of our training, we finish the front end with 4 different projects. This is project 4. </br>
 We had to create a quiz using an API. 
@@ -28,7 +25,7 @@ Putting our knowledge and cohesion into practice through teamwork.
 * 
 
 ## Overview 
-[![little overview](Overview.png)]() 
+[![little overview](Overview.png)](https://joelle-everaert.github.io/The-Quizz/) 
 
 ### Original instruction
 
