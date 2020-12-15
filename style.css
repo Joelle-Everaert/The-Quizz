@@ -1,0 +1,79 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    color: rgba(235, 236, 226, 0.993)
+}
+
+p{
+    margin-bottom: 4vh;
+    display: flex;
+    width: 45%;
+    margin: 3vh auto 8vh auto
+}
+h1{
+    display: flex;
+    justify-content: center;
+    border : 1px solid white;
+    border-style: outset;
+    width: 45%;
+    margin: 3vh auto 5vh auto
+}
+
+.quizz{
+    display: flex;
+    flex-direction: column;
+    margin : 0 auto 0 10vh;
+
+}
+
+.divGeneral{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.possibility{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+input{
+    outline: none;
+}
+
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
+
+.minuteur{
+    position: fixed;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 80%;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 20%;
+    padding: 0 3px 0 3px;
+    font-size: 20px;
+}
+
+.timer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.redText{
+    color: red;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}

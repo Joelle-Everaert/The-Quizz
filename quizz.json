@@ -1,0 +1,109 @@
+{
+    "response_code": 0,
+    "results": [{
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who sang the theme song for the TV show &#039;Rawhide&#039;?",
+        "correct_answer": "Frankie Laine",
+        "incorrect_answers": ["Guy Mitchell", " Tennessee Ernie Ford", "Slim Whitman"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In what year did &quot;The Big Bang Theory&quot; debut on CBS?",
+        "correct_answer": "2007",
+        "incorrect_answers": ["2008", "2006", "2009"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following Autobot names in Michael Bay&#039;s movies was NOT a name for a Transformer in the original 1980&#039;s cartoon?",
+        "correct_answer": "Mudflap",
+        "incorrect_answers": ["Skids", "Sideswipe", "Ratchet"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the star of the TV series &quot;24&quot;?",
+        "correct_answer": "Kiefer Sutherland",
+        "incorrect_answers": ["Kevin Bacon", "Hugh Laurie", "Rob Lowe"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is Meg&#039;s full name in &quot;Family Guy&quot;?",
+        "correct_answer": "Megatron Griffin",
+        "incorrect_answers": ["Who-Cares Griffin", "Neil Griffin", "Megan Griffin"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?",
+        "correct_answer": "Stef&aacute;n Stef&aacute;nsson",
+        "incorrect_answers": ["Adam Sandler", "Magn&uacute;s Scheving", "Stephen Carl"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of following is rude and dishonorable by Klingon standards?",
+        "correct_answer": "Taking his D&#039;k tahg",
+        "incorrect_answers": ["Insulting and laughing at him at the dinner table", "Reaching over and taking his meal", "Punching him and taking his ship station position"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was Nickelodeon&#039;s original name?",
+        "correct_answer": "Pinwheel",
+        "incorrect_answers": ["MTVKids", "KidsTV", "Splat!"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What breed of dog is &quot;Scooby Doo&quot;?",
+        "correct_answer": "Great Dane",
+        "incorrect_answers": ["Pit bull", "Boxer", "Doberman Pinscher"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Alan Reed is known for providing the voice of which character?",
+        "correct_answer": "Fred Flintstone",
+        "incorrect_answers": ["Bugs Bunny", "Fangface", "G.I. Joe"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In &quot;The Simpsons&quot;, what is the real name of &quot;Comic Book Guy&quot;?",
+        "correct_answer": "Jeff Albertson",
+        "incorrect_answers": ["Comic Book Guy", "Edward Stone", "Jack Richardson"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "On the NBC show Community what was Star Burns&#039; real name?",
+        "correct_answer": "Alex",
+        "incorrect_answers": ["Todd", "Neal", "Grimus"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which boxing personality was one of the presenters in the 1999 revival of It&#039;s a Knockout?",
+        "correct_answer": "Frank Bruno",
+        "incorrect_answers": ["Henry Cooper", "Muhammad Ali", "Joe Fraiser"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Cesar Romero played which iconic Batman villain from the 1960&#039;s TV show?",
+        "correct_answer": "The Joker",
+        "incorrect_answers": ["The Penguin", "The Riddler", "Mr. Freeze"]
+    }, {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the inspector in the series &quot;On the Buses&quot;?",
+        "correct_answer": "Blakey",
+        "incorrect_answers": ["Harper", "Naily", "Gally"]
+    }]
+}
