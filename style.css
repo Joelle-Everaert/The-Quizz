@@ -63,6 +63,15 @@ input{
     font-size: 20px;
 }
 
+.score{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    margin-left: 81%;
+    margin-top: 7%;
+    font-size: 20px;
+}
+
 .timer{
     margin-top: 10px;
     margin-bottom: 10px;
