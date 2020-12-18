@@ -12,9 +12,9 @@ const shuffle = (array) => {
   answers = array
 }
 
-let i = 0
+let i = 0   // i for score
 
-fetch('https://opentdb.com/api.php?amount=15&category=14&difficulty=medium&type=multiple')
+fetch('https://opentdb.com/api.php?amount=15&type=multiple')
   .then(response => response.json())
   .then((quizzApi) => {
     console.log(quizzApi)
